@@ -35,6 +35,15 @@ nav ul {
     align-items: center;
 }
 
+.btn-pri {
+    font-weight: 700;
+    font-size: 20px;
+    color: #FD6E0A;
+    border-radius: 5px;
+    border: 0px;
+    margin-left: 30px;
+}
+
 .btn-primary {
     font-weight: 700;
     font-size: 20px;
